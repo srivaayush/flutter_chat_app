@@ -3,5 +3,3 @@
 ![Uploading Simulator Screenshot - iPhone 14 Pro Max - 2023-08-06 at 12.00.39.png…]()
 ![Uploading Simulator Screenshot - iPhone 14 Pro Max - 2023-08-06 at 12.00.18.png…]()
 ![Simulator Screenshot - iPhone 14 Pro Max - 2023-08-06 at 12 00 13](https://github.com/srivaayush/flutter_chat_app/assets/54759189/09a8b66c-0a3b-4bf2-92e4-1fd5faba0024)
-
-![untitled](https://github.com/srivaayush/flutter_chat_app/assets/54759189/f3c352d2-2270-4d4e-9f4b-130f7915f565)
